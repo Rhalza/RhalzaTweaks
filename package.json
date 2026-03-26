@@ -1,0 +1,22 @@
+{
+  "name": "rhalzatweaks",
+  "version": "1.0.0",
+  "description": "A lightweight bundle of basic JavaScript features for the web.",
+  "main": "src/rhalzatweaks.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhalza/RhalzaTweaks.git"
+  },
+  "keywords": [
+    "cdn",
+    "utilities",
+    "ui",
+    "effects",
+    "vanilla-js"
+  ],
+  "author": "Rhalza",
+  "license": "MIT"
+}
