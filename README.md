@@ -10,11 +10,20 @@ Use the **Full Bundle** to supercharge your website, or import **Standalone Modu
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Rhalza/RhalzaTweaks@main/src/rhalzatweaks.bundle.min.js"></script>
 ```
+or
+```html
+<script src="https://cdn.jsdelivr.net/npm/Rhalza/RhalzaTweaks@main/src/rhalzatweaks.bundle.min.js"></script>
+```
 
 **Option 2: Standalone Modules** (A La Carte)
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Rhalza/RhalzaTweaks@main/src/cyberpunkText.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/Rhalza/RhalzaTweaks@main/src/formatCurrency.min.js"></script>
+```
+or
+```html
+<script src="https://cdn.jsdelivr.net/npm/Rhalza/RhalzaTweaks@main/src/cyberpunkText.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/Rhalza/RhalzaTweaks@main/src/formatCurrency.min.js"></script>
 ```
 
 ## 🛠️ Quick Start
